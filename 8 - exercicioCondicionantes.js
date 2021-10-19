@@ -8,7 +8,7 @@ const listaDeFilmes = new Array(
     `Flash`,
 )
 console.log(listaDeFilmes);
-console.log("Qual filme deseja escolher? " + listaDeFilmes[2]);
+console.log("Qual filme deseja escolher? " + listaDeFilmes[3]);
 
 if (usuarioEstudante == true && temCarteirinha == true) {
     console.log("O valor do ingresso é R$ 15,00.")
